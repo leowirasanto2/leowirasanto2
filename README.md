@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning iOS App (Swift) & Flutter App Development
+- 📫 How to reach me:
+    - Instagram: instagram.com/leowirasanto
+    - Youtube: youtube.com/leowirasanto
 <!--
 **leowirasanto2/leowirasanto2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
