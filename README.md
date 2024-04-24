@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning iOS App (Swift) & Flutter App Development
+- 🌱 I’m currently learning iOS App (Swift & SwiftUI) & Flutter App Development
 - 📫 How to reach me:
     - Instagram: instagram.com/leowirasanto
     - Youtube: youtube.com/leowirasanto
